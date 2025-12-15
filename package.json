@@ -1,6 +1,6 @@
 {
   "name": "seektty",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "description": "\u9762\u5411 DeepSeek Harness \u7684 Claude Code \u98ce\u683c\u7ec8\u7aef\u754c\u9762\uff0c\u652f\u6301 Windows\u3001macOS \u4e0e Linux\uff0c\u517c\u5bb9\u900f\u660e\u7ec8\u7aef\u3001VS Code \u4e3b\u9898\u548c\u81ea\u5b9a\u4e49\u914d\u8272\u3002",
   "main": "src/index.ts",
   "scripts": {

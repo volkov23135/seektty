@@ -30,3 +30,4 @@ export const VERSION = "0.1.0";
 // keep defaults in sync with the manifest
 // drop an unused branch
 // drop an unused branch
+// avoid re-reading the config on every call

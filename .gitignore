@@ -11,3 +11,4 @@ tmp/
 coverage/
 .cache/
 *.tmp
+Thumbs.db
